@@ -1,5 +1,7 @@
 #' Hello
 #'
+#' Hello, she said.
+#'
 #' @examples
 #' # An example
 #' hello()

@@ -7,7 +7,7 @@
 hello()
 }
 \description{
-Hello
+Hello, she said.
 }
 \examples{
 # An example
