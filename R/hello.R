@@ -1,6 +1,6 @@
 #' Hello
 #'
-#' Hello, she said.
+#' Hello, she said. An alpha symbol: \eqn{\alpha}.
 #'
 #' @examples
 #' # An example
